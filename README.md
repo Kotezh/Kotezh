@@ -7,7 +7,7 @@
 
 Обо мне:
 - изучаю английский язык, занимаюсь капоэйрой
-- [моя страница VK](https://vk.com/kotezhkina)
+- мой профиль VK: [https://vk.com/kotezhkina](https://vk.com/kotezhkina)
 
 Стэк: React JavaScript HTML/HTML5 CSS/CSS3
 
