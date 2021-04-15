@@ -11,5 +11,6 @@ _Обо мне:_
 - изучаю английский язык, занимаюсь капоэйрой, хожу на тренинги по публичной речи ✔️
 - мой профиль VK: [https://vk.com/kotezhkina](https://vk.com/kotezhkina) 
 
+_Моя статистика:_
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kotezh&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
