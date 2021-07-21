@@ -12,14 +12,14 @@ _Обо мне:_
 
 _Моя статистика:_
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kotezh&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<div>
 <a href="https://github-readme-stats.vercel.app/api?username=Kotezh&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Kotezh&hide=contribs&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotezh&layout=compact">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotezh&layout=compact" />
 </a>
-
+</div>
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Kotezh/badges/large)](https://www.codewars.com/users/Kotezh)
 
