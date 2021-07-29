@@ -9,8 +9,6 @@ _Стэк:_ `HTML/HTML5` `CSS/CSS3` `JavaScript` `React` `Node.js` `MongoDB` `Gi
 _Обо мне:_
 - люблю изучать новое
 - изучаю английский язык, люблю jumping, капоэйру, хожу на тренинги по публичной речи 
-- мой телеграм: @nadiakotezh 
-- facebook: https://www.facebook.com/nadine.kotegova
 
 _Моя статистика:_
 
