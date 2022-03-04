@@ -16,10 +16,6 @@ _Стэк:_
 </p>
 <br />
 
-_Обо мне:_
-- постоянно изучаю что-то новое
-- изучаю английский язык, люблю jumping, капоэйру, хожу на тренинги по публичной речи 
-
 _Моя статистика:_
 
 <a href="https://github-readme-stats.vercel.app/api?username=Kotezh&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
