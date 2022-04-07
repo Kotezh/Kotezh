@@ -4,7 +4,7 @@
 - Код-ревьюер на курсе Веб-разработчик в Яндекс.Практикуме
 
 _Стэк:_ 
-<p> 
+<br> 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
@@ -27,7 +27,7 @@ _Стэк:_
 ![VS Code](https://img.shields.io/badge/-VS%20Code-181717?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=for-the-badge&logo=figma)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
-</p>
+
 <br/>
 
 _Моя статистика:_
