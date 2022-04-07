@@ -16,6 +16,7 @@ _Стэк:_
 ![Express](https://img.shields.io/badge/-Express-181717?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=for-the-badge&logo=MongoDB)
 <br>
+![StyledComponents](https://img.shields.io/badge/-styled--components-181717?style=for-the-badge&logo=styled--components)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-181717?style=for-the-badge&logo=ant-design)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
