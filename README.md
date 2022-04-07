@@ -11,12 +11,13 @@ _Стэк:_
 ![REDUX](https://img.shields.io/badge/-Redux-181717?style=for-the-badge&logo=Redux)
 ![ReduxThunk](https://img.shields.io/badge/-Thunk-181717?style=for-the-badge&logo=Thunk)
 ![ReduxSaga](https://img.shields.io/badge/-Saga-181717?style=for-the-badge&logo=ReduxSaga)
+<br>
+![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-181717?style=for-the-badge&logo=Express)
 ![Next](https://img.shields.io/badge/-NextJS-181717?style=for-the-badge&logo=NextJS)
-![NodeJS](https://img.shields.io/badge/-NodeJS-181717?style=for-the-badge&logo=NodeJS)
-![Express](https://img.shields.io/badge/-Express-181717?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=for-the-badge&logo=MongoDB)
 <br>
-![StyledComponents](https://img.shields.io/badge/-styled--components-181717?style=for-the-badge&logo=styled--components)
+![StyledComponents](https://img.shields.io/badge/-styled--components-181717?style=for-the-badge&logo=styled-components)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-181717?style=for-the-badge&logo=ant-design)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
