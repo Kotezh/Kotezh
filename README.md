@@ -11,7 +11,7 @@ _Стэк:_
 ![REDUX](https://img.shields.io/badge/-Redux-181717?style=for-the-badge&logo=Redux)
 ![ReduxThunk](https://img.shields.io/badge/-Thunk-181717?style=for-the-badge&logo=Thunk)
 ![ReduxSaga](https://img.shields.io/badge/-Saga-181717?style=for-the-badge&logo=ReduxSaga)
-![Next](https://img.shields.io/badge/-Next-181717?style=for-the-badge&logo=Next)
+![Next](https://img.shields.io/badge/-NextJS-181717?style=for-the-badge&logo=NextJS)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-181717?style=for-the-badge&logo=NodeJS)
 ![Express](https://img.shields.io/badge/-Express-181717?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=for-the-badge&logo=MongoDB)
