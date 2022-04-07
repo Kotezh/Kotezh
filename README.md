@@ -5,20 +5,30 @@
 
 _Стэк:_ 
 <p> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="24">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
-  <img src="https://camo.githubusercontent.com/9152cdeb35690034d731a11792a36073efd698dd7d921a43057ac947f485284c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="Javascript" height="22">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png" alt="Next" height="24" >
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="22">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="22">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="22">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="22">
-  
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
+![REDUX](https://img.shields.io/badge/-Redux-181717?style=for-the-badge&logo=Redux)
+![ReduxThunk](https://img.shields.io/badge/-Thunk-181717?style=for-the-badge&logo=Thunk)
+![ReduxSaga](https://img.shields.io/badge/-Saga-181717?style=for-the-badge&logo=ReduxSaga)
+![Next](https://img.shields.io/badge/-Next-181717?style=for-the-badge&logo=Next)
+![NodeJS](https://img.shields.io/badge/-NodeJS-181717?style=for-the-badge&logo=NodeJS)
+![Express](https://img.shields.io/badge/-Express-181717?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=for-the-badge&logo=MongoDB)
+<br>  
+![AntDesign](https://img.shields.io/badge/-AntDesign-181717?style=for-the-badge&logo=ant-design)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-181717?style=for-the-badge&logo=sass)
+<br>
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-181717?style=for-the-badge&logo=Bitbucket)
+![VS Code](https://img.shields.io/badge/-VS%20Code-181717?style=for-the-badge&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-181717?style=for-the-badge&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
 </p>
-<br />
+<br/>
 
 _Моя статистика:_
 
