@@ -9,6 +9,7 @@ _Стэк:_
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="24">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
+  <img src="https://camo.githubusercontent.com/9152cdeb35690034d731a11792a36073efd698dd7d921a43057ac947f485284c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="Javascript" height="22">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png" alt="Next" height="24" >
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="22">
