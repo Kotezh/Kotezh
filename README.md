@@ -15,7 +15,7 @@ _Стэк:_
 ![NodeJS](https://img.shields.io/badge/-NodeJS-181717?style=for-the-badge&logo=NodeJS)
 ![Express](https://img.shields.io/badge/-Express-181717?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=for-the-badge&logo=MongoDB)
-<br>  
+<br>
 ![AntDesign](https://img.shields.io/badge/-AntDesign-181717?style=for-the-badge&logo=ant-design)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
@@ -27,7 +27,6 @@ _Стэк:_
 ![VS Code](https://img.shields.io/badge/-VS%20Code-181717?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=for-the-badge&logo=figma)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
-
 <br/>
 
 _Моя статистика:_
